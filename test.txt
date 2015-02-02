@@ -1,2 +1,3 @@
 str 1
 master str
+str for the second branch
